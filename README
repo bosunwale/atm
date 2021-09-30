@@ -1,0 +1,8 @@
+This is a challenge i gave to myself to test my knowledge in Java
+The challenge was to create an Atm Porgram. Below are list of things the program can do
+User has a default pin
+If user enters wrong pin, there's a 3 times trial to input right pin else, account is locked and program terminates
+User can deposit, withdraw, and check balance
+There is a limit to how much user can deposit and withdraw
+It is dynamic in the sense that each deposit is added to the previous deposit. The same goes for withdrawal
+Any trasaction performed by user is reflected in the balance option i.e a user deposits 40000 and withdraws 600. When user checks balance, 34000 is displayed to user
